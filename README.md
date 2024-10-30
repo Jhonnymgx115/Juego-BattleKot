@@ -111,4 +111,4 @@ Todos los contribuidores que ayudaron a hacer este proyecto realidad
 
 Email: impmon867@gmail.com
 
-⌨️ con ❤️ por [Jorge Barreto, Maria Paula, Camilo Hernandez, Jhoham] 😊
+⌨️ con ❤️ por [Jorge Barreto, Maria Paula Florez, Camilo Hernandez, Joham Morales] UPB 2024😊 
