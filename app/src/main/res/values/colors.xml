@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25567b</color>
+    <color name="colorPrimaryDark">#002d4f</color>
+    <color name="colorPrimarySurface">#d7effe</color>
+    <color name="colorAccent">#5782aa</color>
+
+    <color name="colorWater">#99c2e1</color>
+    <color name="colorBorder">#25567b</color>
+    <color name="colorSelected">#808080</color>
+
+    <color name="colorHit">#f60119</color>
+    <color name="colorMissed">#efefef</color>
+
+</resources>

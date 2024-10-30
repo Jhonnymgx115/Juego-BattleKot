@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BattleShip</string>
+
+    <string name="randomly">Randomly</string>
+    <string name="manually">Manually</string>
+    <string name="start_game">Start Game</string>
+    <string name="get_started">Get Started</string>
+    <string name="rotate_ship">Rotate Ship</string>
+
+    <string name="error">Error</string>
+    <string name="logout">Logout</string>
+    <string name="Welcome">Welcome</string>
+    <string name="choose_opponent">Choose Opponent</string>
+    <string name="error_sign_in">Unable to Sign in</string>
+    <string name="sign_in_email">Sign in with email</string>
+    <string name="user_signed_out">User has signed out!</string>
+    <string name="success_sign_in">Successfully signed in</string>
+    <string name="user_already_in">User already signed in, must sign out first</string>
+
+    <string name="create_room">Create Room</string>
+    <string name="creating_room">Creating Room</string>
+    <string name="success_join_room">Successfully joined room</string>
+    <string name="success_create_room">Successfully created room</string>
+
+    <string name="me">Me</string>
+    <string name="player">Player</string>
+
+    <string name="you_won">You Won!</string>
+    <string name="game_over">Game Over</string>
+    <string name="not_your_turn">It\'s not your turn yet!</string>
+    <string name="game_over_subtitle">Better luck next time...</string>
+    <string name="you_won_subtitle">You destroyed all the ships...</string>
+    <string name="place_ships">Place Your Ships</string>
+
+</resources>
