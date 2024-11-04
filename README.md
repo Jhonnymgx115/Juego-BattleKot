@@ -99,7 +99,7 @@ Este proyecto está bajo la licencia MIT - ver el archivo LICENSE.md para más d
 
 ## 👥 Autores
 
-[Tu Nombre] - Trabajo Inicial - @tuUsuario
+[Jorge Barreto, Camilo Hernandez, Joham Morales] - Trabajo Inicial - @Jhonnymgx115@gmail.com
 
 ## 🙏 Agradecimientos
 
@@ -111,4 +111,4 @@ Todos los contribuidores que ayudaron a hacer este proyecto realidad
 
 Email: impmon867@gmail.com
 
-⌨️ con ❤️ por [Jorge Barreto, Maria Paula Florez, Camilo Hernandez, Joham Morales] UPB 2024😊 
+⌨️ con ❤️ por [Jorge Barreto, Camilo Hernandez, Joham Morales] UPB 2024😊 
