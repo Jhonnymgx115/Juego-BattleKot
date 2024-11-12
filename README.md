@@ -1,8 +1,8 @@
 
-# 🚢 Juego-BattleKot
+# 🚢 Juego-BattleKot -Aviones y Carriers ✈
 
 ## 📝 Descripción
-Naval Battle es un emocionante juego de estrategia inspirado en el clásico Battleship, desarrollado para dispositivos Android utilizando Kotlin. El juego permite a los jugadores disfrutar de intensas batallas navales mientras aprovecha las capacidades modernas de Firebase para autenticación y Google Play Services para una experiencia de juego mejorada.
+Naval Battle es un emocionante juego de estrategia inspirado en el clásico Battleship, desarrollado para dispositivos Android utilizando Kotlin con un ligero Twist (AVIONES y Carriers). El juego permite a los jugadores disfrutar de intensas batallas navales mientras aprovecha las capacidades modernas de Firebase para autenticación y Google Play Services para una experiencia de juego mejorada.
 
 # ✨ Características
 
